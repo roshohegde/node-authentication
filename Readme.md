@@ -38,12 +38,12 @@ Before running the application, make sure you have the following installed:
 npm start
 
 ## Usage
-# Registration:
+### Registration:
     Send a POST request to /register with a JSON body containing email and password fields.
-# Login:
+### Login:
     Send a POST request to /login with a JSON body containing email and password fields.
     Upon successful login, a JWT token will be provided in the response.
-# Protected Routes:
+### Protected Routes:
     Some routes may require authentication. Include the JWT token in the Authorization header to access these routes.
 
 ## API Endpoints
