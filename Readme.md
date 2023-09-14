@@ -18,12 +18,11 @@ Before running the application, make sure you have the following installed:
 - MongoDB
 
 ## Installation
+    Clone the repository:
 
-   Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/your-auth-app.git
-   cd your-auth-app
+   
+   git clone https://github.com/roshohegde/node-authentication
+   cd node-authentication
 ## Install dependencies:
 
     npm install
